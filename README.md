@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+<h3>About Me</h3>
 <p>I am currently a rising senior at the Hong Kong University of Science and Technology</p>
-<br>
 <p>I am interested in machine learning, statistics, and financial markets.</p>
-<br>
 <p>I am also an avid kickboxer.</p>
-<br>
-<br>
