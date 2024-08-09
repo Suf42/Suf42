@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+<p>I am currently a rising senior at the Hong Kong University of Science and Technology</p>
+<br>
+<p>I am interested in machine learning, statistics, and financial markets.</p>
+<br>
+<p>I am also an avid kickboxer.</p>
+<br>
+<br>
