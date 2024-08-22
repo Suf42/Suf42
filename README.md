@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <li>Interested in machine learning, statistics, and financial markets</li>
   <li>Avid kickboxer</li>
 </ul>
+
+Get to know more about me and my work at [my personal website](https://suf42.github.io/).
